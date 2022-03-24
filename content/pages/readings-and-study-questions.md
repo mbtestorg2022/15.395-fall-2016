@@ -57,7 +57,7 @@ Condos, James, William Sorrell, and Susan Donegan. "[Blockchain Technology: Opp
 
 Casey, Michael and Paul Vigna. Chapter 8, "The Unbanked.” In _The Age of Cryptocurrency: How Bitcoin and Digital Money Are Challenging the Global Economic Order_. Picador, 2016. ISBN: 978-1250081551.
 
-Nakamoto, Satoshi. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Bitcoin: A Peer-to-Peer Electronic Cash System" (PDF)](https://bitcoin.org/bitcoin.pdf). Bitcoin. This is the original seminal paper that launched this industry and much more. Don’t worry if you don’t grasp all the technical details; it’s still a useful reference point. In fact, you might want to print it out and carry it around with you, at least for the duration of this course.
+Nakamoto, Satoshi. "[Bitcoin: A Peer-to-Peer Electronic Cash System" (PDF)](https://bitcoin.org/bitcoin.pdf). Bitcoin. This is the original seminal paper that launched this industry and much more. Don’t worry if you don’t grasp all the technical details; it’s still a useful reference point. In fact, you might want to print it out and carry it around with you, at least for the duration of this course.
 
 Gupta, Vinay. "[Programmable Blockchains in Context: Ethereum's Future](https://medium.com/%40ConsenSys/programmable-blockchains-in-context-ethereum-s-future-cd8451eb421e)." ConsenSys. October 21, 2015. This will take you 20-30 minutes to read; it is very accessible. We will return to and debate these questions throughout the course.
 
@@ -90,7 +90,7 @@ Broadbent, Ben. "[Central Banks and Digital Currencies](https://www.bis.org/rev
 Frauenfelder, Mark. "[Bitcoin is the Sewer Rat of Currencies](https://medium.com/institute-for-the-future/bitcoin-is-the-sewer-rat-of-currencies-b89819cdf036)." Medium. February 17, 2016. The title of this piece is meant as a compliment.
 
 _Optional_  
-“![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Financial Inclusion in the United States (PDF)](https://obamawhitehouse.archives.gov/sites/default/files/docs/20160610_financial_inclusion_cea_issue_brief.pdf).” Council of Economic Advisers Issue Brief, June 2016. If you want to understand the importance of this issue, start here. More broadly this is an important part of what is sometimes known as “the high cost of being poor”. There is real potential to move forward on this issue.
+“[Financial Inclusion in the United States (PDF)](https://obamawhitehouse.archives.gov/sites/default/files/docs/20160610_financial_inclusion_cea_issue_brief.pdf).” Council of Economic Advisers Issue Brief, June 2016. If you want to understand the importance of this issue, start here. More broadly this is an important part of what is sometimes known as “the high cost of being poor”. There is real potential to move forward on this issue.
 
 
 {{< tdclose >}}
@@ -180,9 +180,9 @@ Forde, Brian. "[MedRec: Electronic Medical Records on the Blockchain](https://me
 
 Ruane, Jonathan. "Insurance Ireland: Project Update." Auto insurance firms face similar problems: they can’t interoperably share information about their customers’ driving and claims records, yet they need to. Might a blockchain-based permissions system help?
 
-Zyskind, Guy, Oz Nathan, and Sandy Pentland. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Decentralizing Privacy: Using Blockchain to Protect Personal Data" (PDF).](http://web.media.mit.edu/~guyzys/data/ZNP15.pdf) The Media Lab’s Zyskind and Nathan propose combining data anonymization and other privacy tools with the blockchain to build a system of data protection and identity management for individuals and entities.
+Zyskind, Guy, Oz Nathan, and Sandy Pentland. [Decentralizing Privacy: Using Blockchain to Protect Personal Data" (PDF).](http://web.media.mit.edu/~guyzys/data/ZNP15.pdf) The Media Lab’s Zyskind and Nathan propose combining data anonymization and other privacy tools with the blockchain to build a system of data protection and identity management for individuals and entities.
 
-Eskandari, Shayan, David Barrera, Elizabeth Stobert, and Jeremy Clark. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[A First Look at the Usability of Bitcoin Key Management" (PDF)](https://arxiv.org/pdf/1802.04351.pdf). Internet Society. A challenge in pushing more data control responsibility onto individuals is: how do they protect it? Key management solutions are going to be … key.
+Eskandari, Shayan, David Barrera, Elizabeth Stobert, and Jeremy Clark. "[A First Look at the Usability of Bitcoin Key Management" (PDF)](https://arxiv.org/pdf/1802.04351.pdf). Internet Society. A challenge in pushing more data control responsibility onto individuals is: how do they protect it? Key management solutions are going to be … key.
 
 
 {{< tdclose >}}
@@ -262,7 +262,7 @@ Swanson, Tim. "[Consensus-as-a-service: A Brief Report on the Emergence of Permi
 
 Greenspan, Gideon. "[Smart Contracts and the DAO Implosion](http://www.multichain.com/blog/2016/06/smart-contracts-the-dao-implosion/)." MultiChain. June 22, 2016. The high-profile collapse of the smart- contract-run fund, The DAO, raises questions about the viability, under current design, of fully decentralized “immutable” blockchain systems for big finance.
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Public versus Private Blockchains Part 1: Permissioned Blockchains (PDF)](http://bitfury.com/content/5-white-papers-research/public-vs-private-pt1-1.pdf) and ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Public versus Private Blockchains Part 2: Permissionless Blockchains (PDF)](http://bitfury.com/content/5-white-papers-research/public-vs-private-pt2-1.pdf). White Papers. October 20, 2015. The BitFury Group, in collaboration with bitcoin core miner Jeff Garzik, make the case that public blockchains like Bitcoin can provide value to the finance industry that private blockchains can’t.
+[Public versus Private Blockchains Part 1: Permissioned Blockchains (PDF)](http://bitfury.com/content/5-white-papers-research/public-vs-private-pt1-1.pdf) and [Public versus Private Blockchains Part 2: Permissionless Blockchains (PDF)](http://bitfury.com/content/5-white-papers-research/public-vs-private-pt2-1.pdf). White Papers. October 20, 2015. The BitFury Group, in collaboration with bitcoin core miner Jeff Garzik, make the case that public blockchains like Bitcoin can provide value to the finance industry that private blockchains can’t.
 
 
 {{< tdclose >}}
